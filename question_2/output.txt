@@ -1,0 +1,854 @@
+PS C:\Users\omkar\OneDrive\Desktop\eece5644\HW3> & C:/Users/omkar/AppData/Local/Programs/Python/Python311/python.exe c:/Users/omkar/OneDrive/Desktop/eece5644/HW3/question_2/main.py
+Frequencies for experiment = 1
+n_samples=10
+  order = 1 : Frequency = 0.7000
+  order = 2 : Frequency = 0.3000
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.4000
+  order = 2 : Frequency = 0.2000
+  order = 3 : Frequency = 0.3000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.1000
+n_samples=1000
+  order = 1 : Frequency = 0.4000
+  order = 2 : Frequency = 0.1000
+  order = 3 : Frequency = 0.3000
+  order = 4 : Frequency = 0.2000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.4000
+  order = 2 : Frequency = 0.1000
+  order = 3 : Frequency = 0.3000
+  order = 4 : Frequency = 0.2000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 2
+n_samples=10
+  order = 1 : Frequency = 0.2000
+  order = 2 : Frequency = 0.1000
+  order = 3 : Frequency = 0.2000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.2000
+  order = 2 : Frequency = 0.0500
+  order = 3 : Frequency = 0.0500
+  order = 4 : Frequency = 0.1000
+  order = 5 : Frequency = 0.1000
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.2000
+  order = 2 : Frequency = 0.0500
+  order = 3 : Frequency = 0.1500
+  order = 4 : Frequency = 0.0500
+  order = 5 : Frequency = 0.0500
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.2000
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.2000
+  order = 4 : Frequency = 0.1000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 3
+n_samples=10
+  order = 1 : Frequency = 0.0667
+  order = 2 : Frequency = 0.1333
+  order = 3 : Frequency = 0.1333
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.1000
+  order = 2 : Frequency = 0.1000
+  order = 3 : Frequency = 0.1333
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.1333
+  order = 2 : Frequency = 0.1000
+  order = 3 : Frequency = 0.0333
+  order = 4 : Frequency = 0.0667
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.1333
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.1333
+  order = 4 : Frequency = 0.0333
+  order = 5 : Frequency = 0.0333
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 4
+n_samples=10
+  order = 1 : Frequency = 0.1000
+  order = 2 : Frequency = 0.0750
+  order = 3 : Frequency = 0.0250
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0500
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.1250
+  order = 2 : Frequency = 0.0250
+  order = 3 : Frequency = 0.0750
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0250
+n_samples=1000
+  order = 1 : Frequency = 0.1000
+  order = 2 : Frequency = 0.0500
+  order = 3 : Frequency = 0.0500
+  order = 4 : Frequency = 0.0250
+  order = 5 : Frequency = 0.0250
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.1000
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.1000
+  order = 4 : Frequency = 0.0250
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0250
+Frequencies for experiment = 5
+n_samples=10
+  order = 1 : Frequency = 0.1600
+  order = 2 : Frequency = 0.0400
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0800
+  order = 2 : Frequency = 0.0200
+  order = 3 : Frequency = 0.0800
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0200
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0800
+  order = 2 : Frequency = 0.0400
+  order = 3 : Frequency = 0.0200
+  order = 4 : Frequency = 0.0400
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0200
+n_samples=10000
+  order = 1 : Frequency = 0.0800
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0800
+  order = 4 : Frequency = 0.0200
+  order = 5 : Frequency = 0.0200
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 6
+n_samples=10
+  order = 1 : Frequency = 0.0833
+  order = 2 : Frequency = 0.0833
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0833
+  order = 2 : Frequency = 0.0333
+  order = 3 : Frequency = 0.0167
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0167
+  order = 6 : Frequency = 0.0167
+n_samples=1000
+  order = 1 : Frequency = 0.0667
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0667
+  order = 4 : Frequency = 0.0333
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0667
+  order = 2 : Frequency = 0.0167
+  order = 3 : Frequency = 0.0500
+  order = 4 : Frequency = 0.0167
+  order = 5 : Frequency = 0.0167
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 7
+n_samples=10
+  order = 1 : Frequency = 0.1143
+  order = 2 : Frequency = 0.0143
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0143
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0571
+  order = 2 : Frequency = 0.0286
+  order = 3 : Frequency = 0.0286
+  order = 4 : Frequency = 0.0143
+  order = 5 : Frequency = 0.0143
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0571
+  order = 2 : Frequency = 0.0286
+  order = 3 : Frequency = 0.0286
+  order = 4 : Frequency = 0.0286
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0571
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0571
+  order = 4 : Frequency = 0.0286
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 8
+n_samples=10
+  order = 1 : Frequency = 0.0750
+  order = 2 : Frequency = 0.0375
+  order = 3 : Frequency = 0.0125
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0500
+  order = 2 : Frequency = 0.0250
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0250
+  order = 5 : Frequency = 0.0250
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0500
+  order = 2 : Frequency = 0.0125
+  order = 3 : Frequency = 0.0125
+  order = 4 : Frequency = 0.0125
+  order = 5 : Frequency = 0.0250
+  order = 6 : Frequency = 0.0125
+n_samples=10000
+  order = 1 : Frequency = 0.0500
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0500
+  order = 4 : Frequency = 0.0250
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 9
+n_samples=10
+  order = 1 : Frequency = 0.0778
+  order = 2 : Frequency = 0.0222
+  order = 3 : Frequency = 0.0111
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0444
+  order = 2 : Frequency = 0.0222
+  order = 3 : Frequency = 0.0333
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0111
+n_samples=1000
+  order = 1 : Frequency = 0.0444
+  order = 2 : Frequency = 0.0222
+  order = 3 : Frequency = 0.0222
+  order = 4 : Frequency = 0.0111
+  order = 5 : Frequency = 0.0111
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0444
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0444
+  order = 4 : Frequency = 0.0111
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0111
+Frequencies for experiment = 10
+n_samples=10
+  order = 1 : Frequency = 0.0600
+  order = 2 : Frequency = 0.0100
+  order = 3 : Frequency = 0.0100
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0200
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0400
+  order = 2 : Frequency = 0.0100
+  order = 3 : Frequency = 0.0200
+  order = 4 : Frequency = 0.0100
+  order = 5 : Frequency = 0.0200
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0400
+  order = 2 : Frequency = 0.0100
+  order = 3 : Frequency = 0.0200
+  order = 4 : Frequency = 0.0100
+  order = 5 : Frequency = 0.0100
+  order = 6 : Frequency = 0.0100
+n_samples=10000
+  order = 1 : Frequency = 0.0400
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0400
+  order = 4 : Frequency = 0.0100
+  order = 5 : Frequency = 0.0100
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 11
+n_samples=10
+  order = 1 : Frequency = 0.0364
+  order = 2 : Frequency = 0.0273
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0091
+  order = 5 : Frequency = 0.0091
+  order = 6 : Frequency = 0.0091
+n_samples=100
+  order = 1 : Frequency = 0.0364
+  order = 2 : Frequency = 0.0182
+  order = 3 : Frequency = 0.0273
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0091
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0364
+  order = 2 : Frequency = 0.0182
+  order = 3 : Frequency = 0.0273
+  order = 4 : Frequency = 0.0091
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0364
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0364
+  order = 4 : Frequency = 0.0091
+  order = 5 : Frequency = 0.0091
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 12
+n_samples=10
+  order = 1 : Frequency = 0.0583
+  order = 2 : Frequency = 0.0083
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0083
+  order = 5 : Frequency = 0.0083
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0333
+  order = 2 : Frequency = 0.0167
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0250
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0083
+n_samples=1000
+  order = 1 : Frequency = 0.0333
+  order = 2 : Frequency = 0.0167
+  order = 3 : Frequency = 0.0167
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0083
+  order = 6 : Frequency = 0.0083
+n_samples=10000
+  order = 1 : Frequency = 0.0333
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0333
+  order = 4 : Frequency = 0.0167
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 13
+n_samples=10
+  order = 1 : Frequency = 0.0538
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0231
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0077
+  order = 2 : Frequency = 0.0231
+  order = 3 : Frequency = 0.0231
+  order = 4 : Frequency = 0.0154
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0077
+n_samples=1000
+  order = 1 : Frequency = 0.0308
+  order = 2 : Frequency = 0.0077
+  order = 3 : Frequency = 0.0231
+  order = 4 : Frequency = 0.0154
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0308
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0308
+  order = 4 : Frequency = 0.0077
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0077
+Frequencies for experiment = 14
+n_samples=10
+  order = 1 : Frequency = 0.0286
+  order = 2 : Frequency = 0.0286
+  order = 3 : Frequency = 0.0071
+  order = 4 : Frequency = 0.0071
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0286
+  order = 2 : Frequency = 0.0143
+  order = 3 : Frequency = 0.0143
+  order = 4 : Frequency = 0.0071
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0071
+n_samples=1000
+  order = 1 : Frequency = 0.0286
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0286
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0143
+n_samples=10000
+  order = 1 : Frequency = 0.0286
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0286
+  order = 4 : Frequency = 0.0071
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0071
+Frequencies for experiment = 15
+n_samples=10
+  order = 1 : Frequency = 0.0333
+  order = 2 : Frequency = 0.0200
+  order = 3 : Frequency = 0.0067
+  order = 4 : Frequency = 0.0067
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0267
+  order = 2 : Frequency = 0.0133
+  order = 3 : Frequency = 0.0133
+  order = 4 : Frequency = 0.0067
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0067
+n_samples=1000
+  order = 1 : Frequency = 0.0267
+  order = 2 : Frequency = 0.0133
+  order = 3 : Frequency = 0.0067
+  order = 4 : Frequency = 0.0133
+  order = 5 : Frequency = 0.0067
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0267
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0267
+  order = 4 : Frequency = 0.0133
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 16
+n_samples=10
+  order = 1 : Frequency = 0.0250
+  order = 2 : Frequency = 0.0312
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0063
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0125
+  order = 2 : Frequency = 0.0187
+  order = 3 : Frequency = 0.0125
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0125
+  order = 6 : Frequency = 0.0063
+n_samples=1000
+  order = 1 : Frequency = 0.0250
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0250
+  order = 4 : Frequency = 0.0063
+  order = 5 : Frequency = 0.0063
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0250
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0250
+  order = 4 : Frequency = 0.0125
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 17
+n_samples=10
+  order = 1 : Frequency = 0.0294
+  order = 2 : Frequency = 0.0118
+  order = 3 : Frequency = 0.0118
+  order = 4 : Frequency = 0.0059
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0412
+  order = 2 : Frequency = 0.0059
+  order = 3 : Frequency = 0.0059
+  order = 4 : Frequency = 0.0059
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0235
+  order = 2 : Frequency = 0.0118
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0059
+  order = 5 : Frequency = 0.0118
+  order = 6 : Frequency = 0.0059
+n_samples=10000
+  order = 1 : Frequency = 0.0235
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0235
+  order = 4 : Frequency = 0.0118
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 18
+n_samples=10
+  order = 1 : Frequency = 0.0278
+  order = 2 : Frequency = 0.0167
+  order = 3 : Frequency = 0.0056
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0056
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0222
+  order = 2 : Frequency = 0.0111
+  order = 3 : Frequency = 0.0056
+  order = 4 : Frequency = 0.0056
+  order = 5 : Frequency = 0.0056
+  order = 6 : Frequency = 0.0056
+n_samples=1000
+  order = 1 : Frequency = 0.0222
+  order = 2 : Frequency = 0.0056
+  order = 3 : Frequency = 0.0111
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0056
+  order = 6 : Frequency = 0.0111
+n_samples=10000
+  order = 1 : Frequency = 0.0222
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0222
+  order = 4 : Frequency = 0.0056
+  order = 5 : Frequency = 0.0056
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 19
+n_samples=10
+  order = 1 : Frequency = 0.0263
+  order = 2 : Frequency = 0.0211
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0053
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0263
+  order = 2 : Frequency = 0.0053
+  order = 3 : Frequency = 0.0053
+  order = 4 : Frequency = 0.0053
+  order = 5 : Frequency = 0.0105
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0211
+  order = 2 : Frequency = 0.0053
+  order = 3 : Frequency = 0.0105
+  order = 4 : Frequency = 0.0158
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0211
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0211
+  order = 4 : Frequency = 0.0105
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 20
+n_samples=10
+  order = 1 : Frequency = 0.0350
+  order = 2 : Frequency = 0.0050
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0100
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0150
+  order = 2 : Frequency = 0.0050
+  order = 3 : Frequency = 0.0100
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0100
+  order = 6 : Frequency = 0.0100
+n_samples=1000
+  order = 1 : Frequency = 0.0200
+  order = 2 : Frequency = 0.0100
+  order = 3 : Frequency = 0.0100
+  order = 4 : Frequency = 0.0100
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0200
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0200
+  order = 4 : Frequency = 0.0100
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 21
+n_samples=10
+  order = 1 : Frequency = 0.0190
+  order = 2 : Frequency = 0.0190
+  order = 3 : Frequency = 0.0048
+  order = 4 : Frequency = 0.0048
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0190
+  order = 2 : Frequency = 0.0143
+  order = 3 : Frequency = 0.0048
+  order = 4 : Frequency = 0.0048
+  order = 5 : Frequency = 0.0048
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0190
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0190
+  order = 4 : Frequency = 0.0048
+  order = 5 : Frequency = 0.0048
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0190
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0190
+  order = 4 : Frequency = 0.0048
+  order = 5 : Frequency = 0.0048
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 22
+n_samples=10
+  order = 1 : Frequency = 0.0273
+  order = 2 : Frequency = 0.0136
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0045
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0182
+  order = 2 : Frequency = 0.0045
+  order = 3 : Frequency = 0.0091
+  order = 4 : Frequency = 0.0045
+  order = 5 : Frequency = 0.0091
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0182
+  order = 2 : Frequency = 0.0091
+  order = 3 : Frequency = 0.0091
+  order = 4 : Frequency = 0.0045
+  order = 5 : Frequency = 0.0045
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0182
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0182
+  order = 4 : Frequency = 0.0045
+  order = 5 : Frequency = 0.0045
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 23
+n_samples=10
+  order = 1 : Frequency = 0.0174
+  order = 2 : Frequency = 0.0174
+  order = 3 : Frequency = 0.0087
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0174
+  order = 2 : Frequency = 0.0087
+  order = 3 : Frequency = 0.0043
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0043
+  order = 6 : Frequency = 0.0087
+n_samples=1000
+  order = 1 : Frequency = 0.0174
+  order = 2 : Frequency = 0.0043
+  order = 3 : Frequency = 0.0087
+  order = 4 : Frequency = 0.0087
+  order = 5 : Frequency = 0.0043
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0174
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0174
+  order = 4 : Frequency = 0.0087
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 24
+n_samples=10
+  order = 1 : Frequency = 0.0208
+  order = 2 : Frequency = 0.0083
+  order = 3 : Frequency = 0.0083
+  order = 4 : Frequency = 0.0042
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0208
+  order = 2 : Frequency = 0.0125
+  order = 3 : Frequency = 0.0042
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0042
+n_samples=1000
+  order = 1 : Frequency = 0.0167
+  order = 2 : Frequency = 0.0042
+  order = 3 : Frequency = 0.0125
+  order = 4 : Frequency = 0.0083
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0167
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0167
+  order = 4 : Frequency = 0.0083
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 25
+n_samples=10
+  order = 1 : Frequency = 0.0200
+  order = 2 : Frequency = 0.0080
+  order = 3 : Frequency = 0.0040
+  order = 4 : Frequency = 0.0040
+  order = 5 : Frequency = 0.0040
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0240
+  order = 2 : Frequency = 0.0040
+  order = 3 : Frequency = 0.0080
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0040
+n_samples=1000
+  order = 1 : Frequency = 0.0160
+  order = 2 : Frequency = 0.0040
+  order = 3 : Frequency = 0.0120
+  order = 4 : Frequency = 0.0080
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0160
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0160
+  order = 4 : Frequency = 0.0040
+  order = 5 : Frequency = 0.0040
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 26
+n_samples=10
+  order = 1 : Frequency = 0.0192
+  order = 2 : Frequency = 0.0115
+  order = 3 : Frequency = 0.0038
+  order = 4 : Frequency = 0.0038
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0192
+  order = 2 : Frequency = 0.0077
+  order = 3 : Frequency = 0.0038
+  order = 4 : Frequency = 0.0077
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0154
+  order = 2 : Frequency = 0.0115
+  order = 3 : Frequency = 0.0038
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0038
+  order = 6 : Frequency = 0.0038
+n_samples=10000
+  order = 1 : Frequency = 0.0154
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0154
+  order = 4 : Frequency = 0.0038
+  order = 5 : Frequency = 0.0038
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 27
+n_samples=10
+  order = 1 : Frequency = 0.0148
+  order = 2 : Frequency = 0.0111
+  order = 3 : Frequency = 0.0074
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0037
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0185
+  order = 2 : Frequency = 0.0037
+  order = 3 : Frequency = 0.0037
+  order = 4 : Frequency = 0.0111
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0148
+  order = 2 : Frequency = 0.0074
+  order = 3 : Frequency = 0.0074
+  order = 4 : Frequency = 0.0074
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0148
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0148
+  order = 4 : Frequency = 0.0074
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+Frequencies for experiment = 28
+n_samples=10
+  order = 1 : Frequency = 0.0179
+  order = 2 : Frequency = 0.0071
+  order = 3 : Frequency = 0.0036
+  order = 4 : Frequency = 0.0036
+  order = 5 : Frequency = 0.0036
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0143
+  order = 2 : Frequency = 0.0107
+  order = 3 : Frequency = 0.0000
+  order = 4 : Frequency = 0.0107
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0143
+  order = 2 : Frequency = 0.0071
+  order = 3 : Frequency = 0.0071
+  order = 4 : Frequency = 0.0036
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0036
+n_samples=10000
+  order = 1 : Frequency = 0.0143
+  order = 2 : Frequency = 0.0036
+  order = 3 : Frequency = 0.0107
+  order = 4 : Frequency = 0.0036
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0036
+Frequencies for experiment = 29
+n_samples=10
+  order = 1 : Frequency = 0.0172
+  order = 2 : Frequency = 0.0103
+  order = 3 : Frequency = 0.0034
+  order = 4 : Frequency = 0.0034
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=100
+  order = 1 : Frequency = 0.0172
+  order = 2 : Frequency = 0.0034
+  order = 3 : Frequency = 0.0103
+  order = 4 : Frequency = 0.0000
+  order = 5 : Frequency = 0.0034
+  order = 6 : Frequency = 0.0000
+n_samples=1000
+  order = 1 : Frequency = 0.0138
+  order = 2 : Frequency = 0.0034
+  order = 3 : Frequency = 0.0103
+  order = 4 : Frequency = 0.0069
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0138
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0138
+  order = 4 : Frequency = 0.0034
+  order = 5 : Frequency = 0.0034
+  order = 2 : Frequency = 0.0067
+  order = 3 : Frequency = 0.0067
+  order = 4 : Frequency = 0.0067
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0000
+n_samples=10000
+  order = 1 : Frequency = 0.0133
+  order = 2 : Frequency = 0.0000
+  order = 3 : Frequency = 0.0133
+  order = 4 : Frequency = 0.0033
+  order = 5 : Frequency = 0.0000
+  order = 6 : Frequency = 0.0033
+PS C:\Users\omkar\OneDrive\Desktop\eece5644\HW3>
